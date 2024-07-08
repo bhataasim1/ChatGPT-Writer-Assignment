@@ -39,4 +39,7 @@ npm run build
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
 
 ## Video Demo:
-<video controls src="ChatGPT-Writer-Demo.mp4" title="Title"></video>
+
+https://github.com/bhataasim1/ChatGPT-Writer-Assignment/assets/71691906/adc37e56-1794-4fe0-8ee3-b2a9fe712a80
+
+
